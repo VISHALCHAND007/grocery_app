@@ -1,6 +1,6 @@
-import 'package:shopping_list/models/grocery_item.dart';
 import 'package:shopping_list/data/categories.dart';
 import 'package:shopping_list/helpers/enums/categories.dart';
+import 'package:shopping_list/models/grocery_item.dart';
 
 final groceryItems = [
   GroceryItem(
